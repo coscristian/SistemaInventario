@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "projectName": "SistemaInventario.AccesoDatos",
+        "projectPath": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\cques\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cques\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\jw-arquitectura\\03. Implementacion\\02. Arquitectura\\02. Nuget\\01. Paquetes": {},
+          "C:\\jw-dian\\03. Implementacion\\02. Componentes\\99. Nuget\\01. Paquetes": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/1xXU4gzIuELiItCK6pu1YTSFQyjKZ47dySFDlac67g6A2dcjT2/api": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+                "projectPath": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+              },
+              "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectName": "SistemaInventario.Modelos",
+        "projectPath": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "packagesPath": "C:\\Users\\cques\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cques\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\jw-arquitectura\\03. Implementacion\\02. Arquitectura\\02. Nuget\\01. Paquetes": {},
+          "C:\\jw-dian\\03. Implementacion\\02. Componentes\\99. Nuget\\01. Paquetes": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/1xXU4gzIuELiItCK6pu1YTSFQyjKZ47dySFDlac67g6A2dcjT2/api": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectName": "SistemaInventario.Utilidades",
+        "projectPath": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\cques\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cques\\Documents\\Udemy\\ProyectoInven\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cques\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\jw-arquitectura\\03. Implementacion\\02. Arquitectura\\02. Nuget\\01. Paquetes": {},
+          "C:\\jw-dian\\03. Implementacion\\02. Componentes\\99. Nuget\\01. Paquetes": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/1xXU4gzIuELiItCK6pu1YTSFQyjKZ47dySFDlac67g6A2dcjT2/api": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
